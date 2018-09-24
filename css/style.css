@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://assets.bosch.com/media/global/products_and_solutions/market_specific_solutions/solutions_for_railways_and_train_station_facilities/keyvisual.jpg);
+}
+
+.jumbotron, .card {
+    width: 80%;
+    margin: 20px auto auto auto;
+}
+
+.jumbotron {
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(133, 168, 168);
+    color: white;
+}
+
+.card {
+    border-color: rgb(133, 168, 168);
+    border-width: 2px;
+}
+
+.card-header {
+    background-color: rgb(133, 168, 168);
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(197, 25, 82);
+    border-width: 0px;
+    width: 100px;
+}
